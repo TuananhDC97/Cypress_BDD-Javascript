@@ -1,0 +1,12 @@
+﻿{
+    "firstName": "Tuan Anh",
+    "lastName": "Le",
+    "phoneNumber": "123456789",
+    "monthDoB": "June",
+    "yearDoB": "1997",
+    "dayDoB": "13",
+    "subject": "Computer Science",
+    "address": "Doi Can St.",
+    "state": "NCR",
+    "city": "Delhi"
+}
